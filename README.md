@@ -99,14 +99,3 @@ You will learn how to setup and configure a pipeline that involves CI/CD
 6. Application Insights collects and analyzes health, performance, and usage data.
 7. Azure Monitor collects and analyzes health, performance, and usage data.
 
-# Thank you
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-<a href= "https://twitter.com/tamstar1234"><img src="https://img.icons8.com/nolan/50/twitter.png"/></a>
-<a href= "https://www.linkedin.com/in/thomas-thornton-21a86b75/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
-
-Feel free to check out my blog for more awesome content!
-https://thomasthornton.cloud/ 
-
-Ensure to follow me on GitHub. Please star/share this repository!
-
